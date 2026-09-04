@@ -63,7 +63,10 @@ Custo Mensal Estimado: R$ 35.42<br>
 
 <div align="center">
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="70"/>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/FFFFFF"
+     alt="GitHub"
+     width="70"
+     height="70">&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.3/assets/svg/26a1.svg"
      alt="Energia"
      width="70"
